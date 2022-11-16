@@ -1,2 +1,2 @@
-# fszekbudapest150jatek
+# fszekbudapesjatek
 Created with CodeSandbox
